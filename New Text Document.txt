@@ -1,0 +1,4 @@
+first module: do again 32: 45
+In ES6 we should be having the key and values as the same wherever possible
+
+An alternative for async programmes are using promises and async await
